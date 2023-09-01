@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @t-bfny, call me Tetsuya
+- 👋 Hi, I’m @t-bfny, call me Tetsuya. I'm worked in Tokyo and Kanagawa, Japan
 - 👀 I’m interested in Optical Network, Routing protocol, Middleware, Low Layer Programming, 5G technology and so on
 - 🌱 I’m currently learning Rust, GNS3, video editing, Composition, and so on
 - 💞️ I’m looking to collaborate on people who are unfamiliar with network technology and people who are interested in composition, broadcasting video and radio program
