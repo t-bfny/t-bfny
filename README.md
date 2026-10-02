@@ -3,6 +3,9 @@
 - I’m currently learning video editing, technical writing, design and software devcelopment.
 - I’m looking to collaborate on people who are unfamiliar with network technology and people who are interested in jazz, CG, and interior design.
 - How to reach me ... DM on X, or instagram, or mail to support@yekipo.tech
+- How to supprot me ... buymeacoffee.com/yekipo
+
+- Portfolio: yekipo.tech
 
 <!---
 t-bfny/t-bfny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
