@@ -3,7 +3,7 @@
 - I’m currently working to video editing, technical writing, and also I interested in design and software devcelopment.
 - I’m looking to collaborate on people who are unfamiliar with network technology and people who are interested in jazz, CG, and interior design.
 - How to reach me ... DM on X, or instagram, or mail to support@yekipo.tech
-- How to supprot me ... https://buymeacoffee.com/yekipo
+- How to support me ... https://buymeacoffee.com/yekipo
 - Portfolio: https://yekipo.tech
 
 <!---
